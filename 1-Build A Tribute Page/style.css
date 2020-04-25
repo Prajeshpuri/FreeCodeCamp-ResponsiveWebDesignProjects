@@ -1,0 +1,35 @@
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    color:white;
+  }
+  body
+  {
+    background-image: url("https://media1.tenor.com/images/4ac44c8eed874188ed4b2babebe78942/tenor.gif?itemid=11205361");
+  }
+  h1
+  {  font-size:50px;
+  }
+  
+  h3
+  {  font-size:30px;
+  }
+  p
+  { font-size:20px;  
+  }
+  li
+  { font-size:20px;  
+  }
+  ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: justify;
+  }
+  img {
+    max-width: 50%;
+    display: block;
+    height: auto;
+    margin: auto;
+  }
